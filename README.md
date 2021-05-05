@@ -17,6 +17,8 @@
 * _jQuery_
 * _npm_
 * _popper.js_
+* _Web Audio API_
+* _A-Frame_
 
 ## Description
 
